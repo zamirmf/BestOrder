@@ -1,0 +1,14 @@
+---Final Order Begins---
+
+SOLUTION: the best order would be the following:
+Name: R. A
+No restriction food: 36
+Vegetarian food: 4
+
+Name: R. B
+No restriction food: 2
+Vegetarian food: 1
+Gluten-free food: 7
+
+
+---Final Order Ends---
